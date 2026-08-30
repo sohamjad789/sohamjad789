@@ -15,7 +15,7 @@ Built an end-to-end machine-learning pipeline to predict soccer player market va
 - Trained and evaluated a Random Forest Regressor using MAE, RMSE, and R²
 - Analyzed model behavior with feature importance and permutation importance
 
-### [MedSpa Data Integration Demo](REPLACE_WITH_MEDSPA_DEMO_REPO_URL)
+### [MedSpa Data Integration Demo]([REPLACE_WITH_MEDSPA_DEMO_REPO_URL](https://github.com/sohamjad789/Medspa-Data-Integration_Demo))
 
 **Next.js · TypeScript · Prisma · PostgreSQL · Data Engineering**
 
