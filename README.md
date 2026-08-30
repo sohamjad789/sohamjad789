@@ -15,13 +15,12 @@ Built an end-to-end machine-learning pipeline to predict soccer player market va
 - Trained and evaluated a Random Forest Regressor using MAE, RMSE, and R²
 - Analyzed model behavior with feature importance and permutation importance
 
-### [MedSpa Data Integration Demo]([https://github.com/sohamjad789/Medspa-Data-Integration_Demo])
-
+[MedSpa Data Integration Demo](https://github.com/sohamjad789/Medspa-Data-Integration_Demo)
 **Next.js · TypeScript · Prisma · SQLite · Data Engineering**
 
 A local-only portfolio demo that models a full-stack data-ingestion workflow for consolidating appointment, loyalty, and payment-plan exports into unified customer profiles.
 
-- Imports synthetic CSV/XLSX data from multiple source systems
+- Imports synthetic CSV data from multiple source systems
 - Validates required fields and normalizes inconsistent names, emails, phone numbers, and dates
 - Matches records to customer profiles and flags likely duplicate records
-- Stores normalized data with Prisma and PostgreSQL and displays it in a Next.js dashboard
+- Stores normalized data with Prisma and SQLite and displays it in a Next.js dashboard
