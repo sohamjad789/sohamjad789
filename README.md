@@ -26,14 +26,14 @@ Built a local-only portfolio demo that models a full-stack data-ingestion workfl
 * Matches records to customer profiles and flags likely duplicate records
 * Stores normalized data with Prisma and SQLite and displays it in a Next.js dashboard
 
-### Screenless Wearable Health Tracker *(In Progress)*
+### [Screenless Wearable Health Tracker](https://github.com/sohamjad789/health-tracker) *(In Progress)*
 
-**Python · ESP32 · Embedded Systems · Sensor Data Processing**
+**C++ · ESP32 · Embedded Systems · Sensor Data Processing · Wokwi**
 
-Developing a screenless wearable health-tracker prototype designed to process health and activity data without relying on a traditional display.
+Developing a screenless wearable health-tracker prototype that processes motion and health data through an embedded software pipeline.
 
-* Built and simulated a software pipeline for motion tracking and heart-rate data handling
-* Implemented calorie-estimation logic using activity and sensor data
-* Developed a baseline sleep-score model
-* Validated the current software pipeline in a virtual ESP32/Wokwi environment
-* Preparing to integrate real PPG and motion sensors for hardware testing
+* Built and simulated a pipeline for motion tracking, heart-rate data handling, and calorie estimation
+* Integrated virtual motion-sensor data to calculate activity intensity
+* Implemented prototype heart-rate and calorie-processing logic
+* Validated the current system using an ESP32-based Wokwi simulation
+* Preparing to transition from simulated inputs to real PPG and motion-sensor hardware
